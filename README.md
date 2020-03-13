@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# the basics
 
-You can use the [editor on GitHub](https://github.com/no-bootlicking/resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [join the discord](https://discord.gg/JbgRqnf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## tools 
 
-### Markdown
+### tech
+- computer with a good browser (please consider using chrome or firefox) 
+- sign up for accounts on [github](https://github.com/), [general assembly](https://accounts.generalassemb.ly/users/sign_up), [glitch](https://glitch.com/), and [codepen](https://codepen.io/). you can use github to log in to glitch and codepen! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/no-bootlicking/resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### design
+- notebook: i recommend using grid paper for drawing layouts! 
+- pens: i use multiple colors for drawing sections 
+- color palette tools: [coolors](https://coolors.co/) and [adobe color](https://color.adobe.com/create) - sign up for an account on whichever you prefer if you want to save color palettes 
+- [google fonts](https://fonts.google.com/): look at it if you aren't already familiar - if you struggle with indecision then use [inter](https://fonts.google.com/specimen/Inter) which is a variable font, which is very new and exciting to me!! 
+we're not gonna worry about design programs just yet! 
