@@ -17,5 +17,5 @@ we're not gonna worry about design programs just yet!
 
 ## projects 
 1. fansite (static website about your fav band or something)
-2. [tumblr theme using this tutorial](https://dash.generalassemb.ly/projects/tumblr)
+2. [tumblr theme using this tutorial](https://dash.generalassemb.ly/projects/tumblr) <a href="https://dash.generalassemb.ly/projects/tumblr" target="_blank">test</a>
 3. wordpress site - perhaps for your portfolio 
