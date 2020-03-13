@@ -14,3 +14,8 @@
 - color palette tools: [coolors](https://coolors.co/) and [adobe color](https://color.adobe.com/create) - sign up for an account on whichever you prefer if you want to save color palettes 
 - [google fonts](https://fonts.google.com/): look at it if you aren't already familiar - if you struggle with indecision then use [inter](https://fonts.google.com/specimen/Inter) which is a variable font, which is very new and exciting to me!! 
 we're not gonna worry about design programs just yet! 
+
+## projects 
+1. fansite (static website about your fav band or something)
+2. [tumblr theme using this tutorial](https://dash.generalassemb.ly/projects/tumblr)
+3. wordpress site - perhaps for your portfolio 
